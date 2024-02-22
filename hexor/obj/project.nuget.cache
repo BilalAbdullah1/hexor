@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "96xyM5XEb9zQnzPFnH5fvkGMp+/PKZeOmVM2nr6kPR6obaX6OQqaQmWnT+4NOaKDo4rOmwTKR/FsRACq87qkww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asp\\source\\repos\\hexor\\hexor\\hexor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

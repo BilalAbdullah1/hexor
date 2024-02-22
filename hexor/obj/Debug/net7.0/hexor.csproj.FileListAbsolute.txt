@@ -1,0 +1,17 @@
+C:\Users\asp\source\repos\hexor\hexor\bin\Debug\net7.0\hexor.exe
+C:\Users\asp\source\repos\hexor\hexor\bin\Debug\net7.0\hexor.deps.json
+C:\Users\asp\source\repos\hexor\hexor\bin\Debug\net7.0\hexor.runtimeconfig.json
+C:\Users\asp\source\repos\hexor\hexor\bin\Debug\net7.0\hexor.dll
+C:\Users\asp\source\repos\hexor\hexor\bin\Debug\net7.0\hexor.pdb
+C:\Users\asp\source\repos\hexor\hexor\obj\Debug\net7.0\hexor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\source\repos\hexor\hexor\obj\Debug\net7.0\hexor.AssemblyInfoInputs.cache
+C:\Users\asp\source\repos\hexor\hexor\obj\Debug\net7.0\hexor.AssemblyInfo.cs
+C:\Users\asp\source\repos\hexor\hexor\obj\Debug\net7.0\hexor.csproj.CoreCompileInputs.cache
+C:\Users\asp\source\repos\hexor\hexor\obj\Debug\net7.0\hexor.dll
+C:\Users\asp\source\repos\hexor\hexor\obj\Debug\net7.0\refint\hexor.dll
+C:\Users\asp\source\repos\hexor\hexor\obj\Debug\net7.0\hexor.pdb
+C:\Users\asp\source\repos\hexor\hexor\obj\Debug\net7.0\hexor.genruntimeconfig.cache
+C:\Users\asp\source\repos\hexor\hexor\obj\Debug\net7.0\ref\hexor.dll
+C:\Users\asp\source\repos\hexor\hexor\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\asp\source\repos\hexor\hexor\obj\Debug\net7.0\hexor.csproj.AssemblyReference.cache
+C:\Users\asp\source\repos\hexor\hexor\obj\Debug\net7.0\hexor.csproj.CopyComplete
