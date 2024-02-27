@@ -1,0 +1,26 @@
+DOT NET : 
+Components of the .Net framework:
+CLR common language runtime > 
+CLS common langauge specification > 
+CTS common type system >
+
+source code > langauge compilier (LC) MSIL > CLR > native code > Code Execution
+
+Introduction To C#
+IDE integrated development environment
+C# Syntax : similar to c/ c++ ,
+whitespace : not counting whitespace  , like in html coding ,
+statements : to write / declare data type in it , and terminted by ;
+blocks : { }
+Identifiers : choose the name of variable , classes , methods in which you can identify the name of 
+it , to use same as keyword name we will write , @class , @int
+Keywords : predefined keywords > int, double , long, const etc.
+string interpolation : ($"This is Variable {variable}")
+
+--------------------------------------------- 2-27-24
+
+conditional statement:
+if else statement:
+else if statment:
+ 
+convert.int32 vs int.parse (int convert we can pass null values it will convert to 0 , but can't pass null in int.parse )
